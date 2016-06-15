@@ -1,0 +1,24 @@
+2016-06-13 00:44:50,756 [Thread-1:123145310715904] [django:32] [ERROR]- error 'unicode' object is not callable
+2016-06-13 00:46:12,971 [Thread-3:123145310715904] [django:32] [ERROR]- error 'unicode' object is not callable
+2016-06-14 05:20:28,721 [Thread-7:123145323335680] [django:32] [ERROR]- error UUID('5a70f15d-229b-4a5f-a62b-3683d0db2e9d') is not JSON serializable
+2016-06-14 05:22:04,255 [Thread-7:123145323335680] [django:32] [ERROR]- error <sha1 HASH object @ 0x10ff2dda0> is not JSON serializable
+2016-06-14 08:48:26,793 [Thread-13:123145323335680] [django:32] [ERROR]- error First argument in 'get_static_prefix' must be 'as'
+2016-06-14 11:55:16,068 [Thread-7:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 11:55:51,328 [Thread-8:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 11:55:51,394 [Thread-9:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 11:56:23,153 [Thread-11:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 12:08:15,981 [Thread-7:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 12:09:00,810 [Thread-7:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 12:10:27,344 [Thread-7:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 12:12:12,716 [Thread-7:123145323335680] [django:41] [ERROR]- error tuple index out of range
+2016-06-14 13:37:43,133 [Thread-7:123145323335680] [django:41] [ERROR]- error 'unicode' object has no attribute 'script'
+2016-06-14 13:37:44,936 [Thread-8:123145323335680] [django:41] [ERROR]- error 'unicode' object has no attribute 'script'
+2016-06-14 14:17:46,098 [Thread-8:123145323335680] [django:41] [ERROR]- error 'str' object has no attribute 'read'
+2016-06-14 14:18:34,615 [Thread-10:123145328156672] [django:41] [ERROR]- error 'str' object has no attribute 'read'
+2016-06-14 14:20:32,684 [Thread-8:123145323335680] [django:41] [ERROR]- error 'str' object has no attribute 'read'
+2016-06-14 14:47:50,432 [Thread-14:123145323335680] [django:41] [ERROR]- error Reverse for 'new' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-06-14 14:49:31,282 [Thread-15:123145323335680] [django:41] [ERROR]- error Reverse for 'new' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-06-14 14:51:24,705 [Thread-7:123145323335680] [django:41] [ERROR]- error Reverse for 'new' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-06-15 01:15:53,155 [Thread-7:123145323335680] [django:41] [ERROR]- error 
+2016-06-15 01:17:29,861 [Thread-7:123145323335680] [django:41] [ERROR]- error 
+2016-06-15 01:18:16,398 [Thread-8:123145323335680] [django:41] [ERROR]- error 

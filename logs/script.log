@@ -1,0 +1,85 @@
+2016-06-12 16:23:27,646 [Thread-1:123145310715904] [django.request:182] [WARNING]- Not Found: /
+2016-06-12 16:23:27,696 [Thread-3:123145310715904] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-12 16:23:32,179 [Thread-4:123145310715904] [django.request:182] [WARNING]- Not Found: /
+2016-06-12 16:23:38,641 [Thread-5:123145310715904] [django.request:182] [WARNING]- Not Found: /smarttools/v1
+2016-06-12 16:23:48,699 [Thread-6:123145310715904] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-13 00:01:20,156 [Thread-19:123145310715904] [django.request:182] [WARNING]- Not Found: /
+2016-06-13 00:01:20,504 [Thread-20:123145315536896] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-13 00:01:36,902 [Thread-21:123145310715904] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-13 00:30:48,143 [Thread-1:123145310715904] [django.request:182] [WARNING]- Not Found: /smarttools/v1
+2016-06-13 00:30:53,802 [Thread-3:123145314922496] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-13 00:31:35,779 [Thread-7:123145310715904] [django.request:38] [WARNING]- Method Not Allowed (GET): /smarttools/v1/save
+2016-06-13 00:31:41,363 [Thread-8:123145310715904] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/save
+2016-06-13 00:34:45,054 [Thread-9:123145310715904] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/save
+2016-06-14 05:04:14,465 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /
+2016-06-14 05:04:14,991 [Thread-8:123145327542272] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 05:04:27,582 [Thread-9:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/we
+2016-06-14 07:07:40,005 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-14 07:13:39,267 [Thread-10:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 07:14:34,039 [Thread-12:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 07:29:52,620 [Thread-17:123145323335680] [django.request:182] [WARNING]- Not Found: /
+2016-06-14 07:29:54,096 [Thread-18:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 07:58:50,807 [Thread-19:123145323335680] [django.request:182] [WARNING]- Not Found: /
+2016-06-14 07:58:51,754 [Thread-20:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 07:59:04,917 [Thread-21:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttool/v1/
+2016-06-14 08:41:07,608 [Thread-9:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 08:41:16,996 [Thread-12:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 08:45:59,710 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1
+2016-06-14 09:12:59,399 [Thread-17:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1
+2016-06-14 09:12:59,583 [Thread-18:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1
+2016-06-14 09:13:00,940 [Thread-20:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 09:27:38,545 [Thread-15:123145323335680] [django.request:182] [WARNING]- Not Found: /assets/js/ie-emulation-modes-warning.js
+2016-06-14 09:27:38,568 [Thread-16:123145328156672] [django.request:182] [WARNING]- Not Found: /assets/js/ie10-viewport-bug-workaround.js
+2016-06-14 09:27:38,707 [Thread-17:123145323335680] [django.request:182] [WARNING]- Not Found: /assets/js/ie10-viewport-bug-workaround.js
+2016-06-14 09:27:49,291 [Thread-20:123145332363264] [django.request:182] [WARNING]- Not Found: /assets/js/ie-emulation-modes-warning.js
+2016-06-14 09:27:49,293 [Thread-21:123145336569856] [django.request:182] [WARNING]- Not Found: /assets/js/ie10-viewport-bug-workaround.js
+2016-06-14 09:27:50,138 [Thread-22:123145340776448] [django.request:182] [WARNING]- Not Found: /assets/js/ie10-viewport-bug-workaround.js
+2016-06-14 09:42:40,306 [Thread-33:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 09:48:23,383 [Thread-22:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 09:57:00,412 [Thread-37:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 10:03:50,025 [Thread-50:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 11:55:52,317 [Thread-10:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 12:08:18,850 [Thread-8:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 12:22:33,745 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1
+2016-06-14 12:51:43,530 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 12:54:58,603 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-14 12:55:35,651 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-14 13:07:16,538 [Thread-10:123145323335680] [django.request:284] [ERROR]- Internal Server Error: /smarttools/v1/auto-reply
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/django/core/handlers/base.py", line 149, in get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/Library/Python/2.7/site-packages/django/core/handlers/base.py", line 147, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/Users/baidu/work/python_workspace/bopianer/smarttool/views.py", line 95, in auto_reply
+    if echostr is not None or echostr.strip() != '':
+AttributeError: 'NoneType' object has no attribute 'strip'
+2016-06-14 13:09:25,682 [Thread-8:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/iindex
+2016-06-14 13:35:17,176 [Thread-9:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-14 13:35:20,378 [Thread-13:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-14 13:35:20,481 [Thread-15:123145323335680] [django.request:182] [WARNING]- Not Found: /smarttools/v1/
+2016-06-14 13:35:47,965 [Thread-18:123145328156672] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 13:49:34,678 [Thread-17:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/auto-reply
+2016-06-14 13:51:13,879 [Thread-18:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/auto-reply
+2016-06-14 13:51:15,619 [Thread-19:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/auto-reply
+2016-06-14 13:51:20,861 [Thread-20:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/auto-reply
+2016-06-14 13:56:41,340 [Thread-23:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-14 14:00:40,618 [Thread-27:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-15 00:14:24,472 [Thread-17:123145323335680] [django.request:182] [WARNING]- Not Found: /favicon.ico
+2016-06-15 00:17:53,946 [Thread-23:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/new
+2016-06-15 00:18:05,215 [Thread-24:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/new
+2016-06-15 00:22:38,703 [Thread-27:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/new
+2016-06-15 00:23:40,548 [Thread-28:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/new
+2016-06-15 00:26:27,744 [Thread-30:123145323335680] [django.request:182] [WARNING]- Not Found: /new
+2016-06-15 00:32:05,764 [Thread-8:123145328156672] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/new
+2016-06-15 00:33:38,377 [Thread-9:123145323335680] [django.request:103] [WARNING]- Forbidden (CSRF cookie not set.): /smarttools/v1/new
+2016-06-15 00:34:42,438 [Thread-10:123145323335680] [django.request:38] [WARNING]- Method Not Allowed (GET): /smarttools/v1/new
+2016-06-15 01:14:46,901 [Thread-7:123145323335680] [django.request:182] [WARNING]- Not Found: /tools/v1/score/2a7d800b24b24a019f75ad92572b4bb4/add-widget
+2016-06-15 01:14:46,934 [Thread-7:123145323335680] [django.request:284] [ERROR]- Internal Server Error: /tools/v1/score/2a7d800b24b24a019f75ad92572b4bb4/add-widget
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/django/core/handlers/base.py", line 235, in get_response
+    response = middleware_method(request, response)
+  File "/Library/Python/2.7/site-packages/django/middleware/common.py", line 115, in process_response
+    return self.response_redirect_class(self.get_full_path_with_slash(request))
+  File "/Library/Python/2.7/site-packages/django/middleware/common.py", line 99, in get_full_path_with_slash
+    'url': request.get_host() + new_path,
+RuntimeError: You called this URL via POST, but the URL doesn't end in a slash and you have APPEND_SLASH set. Django can't redirect to the slash URL while maintaining POST data. Change your form to point to 9776aa47.eu.ngrok.io/tools/v1/score/2a7d800b24b24a019f75ad92572b4bb4/add-widget/ (note the trailing slash), or set APPEND_SLASH=False in your Django settings.
