@@ -235,12 +235,12 @@ OSS_BUCKET = {
     'pic_bucket': 'ypa-pic-test',
 }
 
-ACCESS_KEY_ID = "yMiLodxC2dkjcVfv"
-ACCESS_KEY_SECRET = "jNzCUSLsmYLiPELAgV9VAu2ekxFECE"
+ACCESS_KEY_ID = "xxxxx"
+ACCESS_KEY_SECRET = "xxxxx"
 END_POINT = "oss-cn-beijing.aliyuncs.com"
 
-WECHAT_APPID = 'wx27fe96e421ebb5d4'
-WECHAT_APPSECRET = '12f2f4302ef8ede31fa40148098d2c75'
+WECHAT_APPID = 'xxxxx'
+WECHAT_APPSECRET = 'xxxxx'
 WECHAT_TOKEN = '123123123'
 
 ASSET_ENCRYPT_KEY = 12345678
